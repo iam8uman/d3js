@@ -33,7 +33,7 @@ export function NavMain({
               <Link href="/" className="flex items-center gap-2">
                 <span className="sr-only">Made by Suman</span>
                 <IconCirclePlusFilled />
-                <span>Made By Suman</span>
+                <span>Suman using @shadcn</span>
               </Link>
             </SidebarMenuButton>
             <Button
